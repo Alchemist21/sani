@@ -24,5 +24,5 @@ Youtube Video : https://www.youtube.com/watch?v=JUpH-4mzJqM
 Slides :  https://docs.google.com/presentation/d/1oAEo5JiD6f0mESNGhwwQUv3ax5GbPrZ2cJ05sbB76yE/edit?usp=sharing
 
 IPFS here is used as a decentralized storage by storing the hospital prices of Colonoscopy, outpatient visit, 
-genetic testing, IV Infusion, multivitamins, and the price of Promethazine.
-
+genetic testing, IV Infusion, multivitamins, and the price of Promethazine. 
+We used web3.storage and the code can be viewed at https://github.com/Alchemist21/sani/blob/main/src/pages/Form.js#L17
