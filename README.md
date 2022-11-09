@@ -1,6 +1,9 @@
 This is Sani.
 
 Sani enables a transparent Hospital Pricing in a Decentralized Manner. 
+Here, patients can connect with their respective wallets and see the prices of hospital fees including medications and even a simple outpatient visit.
+This is very useful for patients and provides a personalized approach in terms of accessing hospital prices.
+
 
 Instructions:
 
