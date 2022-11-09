@@ -12,7 +12,11 @@ Instructions:
 
 4. View Hospital Pricing
 
-View at :  https://sanitas1.netlify.app/
+  
+Website: https://sanitas1.netlify.app/
+Youtube Video : [
+](https://www.youtube.com/watch?v=JUpH-4mzJqM)
+
 
 IPFS here is used as a decentralized storage by storing the hospital prices of Colonoscopy, outpatient visit, 
 genetic testing, IV Infusion, multivitamins, and the price of Promethazine.
