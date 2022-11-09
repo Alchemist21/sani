@@ -1,0 +1,10 @@
+{
+  "colonoscopy": [
+    {
+      "id": 1,
+      "service": "Diagnostic procedure",
+      "CPTHCPCSCode": 45378,
+      "standardChargeInUSD": 750
+    }
+  ]
+}
